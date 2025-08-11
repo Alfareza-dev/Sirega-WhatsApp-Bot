@@ -44,7 +44,7 @@ SIREGA (Sistem Informasi RT dan Warga) adalah bot WhatsApp berbasis Node.js dan 
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/username/whatsapp-bot-sirega.git
+git clone https://github.com/Alfareza-dev/Sirega-WhatsApp-Bot.git
 cd whatsapp-bot-sirega
 ```
 
