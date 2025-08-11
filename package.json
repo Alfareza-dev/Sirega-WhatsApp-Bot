@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "moment": "^2.30.1",
+    "os-utils": "^0.0.14",
+    "pino": "^9.7.0",
+    "qrcode-terminal": "^0.12.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
