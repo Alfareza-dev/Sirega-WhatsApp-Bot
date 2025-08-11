@@ -94,3 +94,17 @@ Saat pertama kali dijalankan, bot akan menghasilkan QR code untuk login ke Whats
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) – see the [LICENSE file](./LICENSE) for details.
+
+
+
+
+
+---
+
+> **📝 Catatan Pengembang**
+>
+> Repository ini adalah **versi lama** dari SIREGA Bot yang menggunakan penyimpanan **JSON lokal**.  
+> Saat ini sudah tersedia **versi baru** yang sepenuhnya menggunakan **REST API**, sehingga lebih praktis, ringan, dan mudah dikembangkan.  
+> 
+> 💡 Jika kamu ingin mendapatkan versi terbaru, silakan **ajukan issue** pada repository ini.
+
